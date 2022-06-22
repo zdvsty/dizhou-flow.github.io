@@ -5,7 +5,8 @@ permalink: /publications/
 published: true
 ---
 
-## Journal Papers
+## Thesis
+Stability and Bifurcation Analysis of Applied Free Boundary Problems. PhD thesis, University of Notre Dame, June 2021. 
 
 #### 2020
 0. Lorenzo Carnevale and Antonio Celesti and Giacomo Fiumara and Antonino Galletta and Massimo Villari. "*Investigating classification supervised learning approaches for the identification of critical patients' posts in a healthcare social network*". Applied Soft Computing, Elsevier, vol. 90, pp. 106155, ISSN: 1568-4946 (May 2020) (doi: [10.1016/j.asoc.2020.106155](https://doi.org/10.1016/j.asoc.2020.106155)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/202005-paper-journal-elsevier-applied_soft_computing.bib)]
