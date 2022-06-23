@@ -5,6 +5,8 @@ permalink: /publications/
 published: true
 ---
 
+<a href="https://scholar.google.com/citations?user=jlRNTa8AAAAJ&hl=en">My Google Scholar Profile</a>
+
 ## Thesis
 Stability and Bifurcation Analysis of Applied Free Boundary Problems. PhD thesis, University of Notre Dame, June 2021. [[ thesis ](https://drive.google.com/file/d/1Mrph0rRfZuhuKckJBSTx0xkz_KzfTBI9/view?usp=sharing)]
 {: reversed="reversed"}
