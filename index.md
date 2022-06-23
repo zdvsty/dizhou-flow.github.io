@@ -9,7 +9,9 @@ published: true
 
 ## Contact Information
 Office: Stevenson Center 1529
+
 Email: xinyue.zhao (at) vanderbilt.edu
+
 Web: <a href="http://xinyue-zhao.github.io">http://xinyue-zhao.github.io</a>
 
 
