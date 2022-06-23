@@ -6,7 +6,7 @@ published: true
 ---
 
 ## Thesis
-Stability and Bifurcation Analysis of Applied Free Boundary Problems. PhD thesis, University of Notre Dame, June 2021. [&nbsp;<a href="content/thesis.pdf">thesis</a>&nbsp;]
+Stability and Bifurcation Analysis of Applied Free Boundary Problems. PhD thesis, University of Notre Dame, June 2021. [&nbsp;<a href="content\thesis.pdf">thesis</a>&nbsp;]
 
 ## Jounral papers
 0. <b>X. E. Zhao</b> and B. Hu, “The impact of time delay in a tumor model”, Nonlinear Analysis: Real World Applications, 2020. [&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S1468121818312732">DOI</a>&nbsp;| 
