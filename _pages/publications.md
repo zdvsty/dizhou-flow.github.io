@@ -9,7 +9,9 @@ published: true
 Stability and Bifurcation Analysis of Applied Free Boundary Problems. PhD thesis, University of Notre Dame, June 2021. 
 
 ## Jounral papers
-0. The impact of time delay in a tumor model, with B. Hu. Nonlinear Analysis: Real World Applications, 51 (2020), 103015.
+0. X. E. Zhao and B. Hu, “The impact of time delay in a tumor model”, Nonlinear Analysis: Real World Applications, 2020. [&nbsp;<a href="content/bib/huang2021shktrk_bib.html#huang2021shktrk">bib</a>&nbsp;| 
+  <a href="https://doi.org/10.1016/j.jcp.2020.109385">DOI</a>&nbsp;| 
+  <a href="https://arxiv.org/abs/2105.00139">arxiv</a>&nbsp;]
 
 0. 
 
