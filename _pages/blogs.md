@@ -2,8 +2,7 @@
 title:
 layout: default
 permalink: /blog/
-published: true
----
+published: false
 
 ## Blogs
 
