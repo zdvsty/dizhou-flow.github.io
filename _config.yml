@@ -1,10 +1,10 @@
 ### your site title here
-title: Xinyue Zhao
-description: Postdoctoral Scholar at Vanderbilt University
+title: Lorenzo Carnevale
+description: Assistant Professor at University of Messina
 
 baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: xinyue.zhao@vanderbilt.edu
+email: lcarnevale@unime.it
 
 highlighter: rouge
 markdown: kramdown
@@ -17,13 +17,13 @@ markdown: kramdown
 # Social media links in footer
 # facebook: "#"
 # twitter: "#"
-# linkedin: "lorenzocarnevale"
-# github: "lcarnevale"
+linkedin: "lorenzocarnevale"
+github: "lcarnevale"
 # researchgate: "#"
-# orcid: "0000-0002-1349-341X"
-# google_analytics: "G-V0TBR5PTVH"
-# scopus: "57195963279"
- google_scholar: "_jlRNTa8AAAAJ&hl=en"
+orcid: "0000-0002-1349-341X"
+google_analytics: "G-V0TBR5PTVH"
+scopus: "57195963279"
+google_scholar: "_5EzmTwAAAAJ&hl=it"
 
 
 # highlighter: rouge
