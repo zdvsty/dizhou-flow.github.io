@@ -6,8 +6,8 @@ baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: xinyue.zhao@vanderbilt.edu
 
-# highlighter: rouge
-# markdown: kramdown
+highlighter: rouge
+markdown: kramdown
 
 # Pagination
 # paginate: 4
