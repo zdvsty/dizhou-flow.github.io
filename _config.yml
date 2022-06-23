@@ -6,8 +6,8 @@ description: Postdoctoral Scholar at Vanderbilt University
 # url: "" #custom url to be used instead of GitHub repository
 # email: xinyue.zhao@vanderbilt.edu
 
-highlighter: rouge
-markdown: kramdown
+# highlighter: rouge
+# markdown: kramdown
 
 # Pagination
 # paginate: 4
