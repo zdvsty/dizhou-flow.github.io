@@ -2,9 +2,9 @@
 title: Xinyue (Evelyn) Zhao
 description: Postdoctoral Scholar at Vanderbilt University
 
-baseurl: "" #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: xinyue.zhao@vanderbilt.edu
+# baseurl: "" #name of GitHub repository
+# url: "" #custom url to be used instead of GitHub repository
+# email: xinyue.zhao@vanderbilt.edu
 
 highlighter: rouge
 markdown: kramdown
