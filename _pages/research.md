@@ -9,7 +9,8 @@ My research includes theoretical and numerical analysis for partial differential
 
 ### 1. Tumor growth model with a time delay in cell proliferation
 A new PDE model is proposed for non-radially symmetric tumor growth with a time delay in cell proliferation. The time delay represents the time taken for cells to undergo replication. The model is a coupled system of an elliptic equation, a parabolic equation, and a backward ordinary differential equation. It also incorporates the cell location under the presence of time delay (see left figure, cell location changes in the period of time delay), with the tumor boundary as a <i>free boundary</i>. For the new model, we successfully carried out the stability and bifurcation analysis (see my publication [1] and [2]).
-[My image](xinyue-zhao.github.com/xinyue-zhao.github.io/assets/images/profile.jpg)
+![alt text](https://github.com/xinyue-zhao/xinyue-zhao.github.io/blob/master/assets/images/profile.jpg)
+
 
 ### 2. Atherosclerosis
 We studied the bifurcation for a highly nonlinear and highly coupled free boundary PDE system describing the growth of arterial plaque. The model involves high density lipoprotein cholestrols, low density lipoprotein cholestrols, macrophage cells and foam cells. As shown in the upper left figure, we consider the cross section of an artery. There are plaque region and blood flow region, with the interface separating these two regions being a free boundary. Finite branches of symmetry-breaking stationary solutions were established for the model (see my publication [3]). Moreover, we showed that the first bifurcation point for the system corresponds to the mode n=1 (see my publication [4]), which would result in the solution pattern shown in the upper right figure. As some arterial plaque is often accumulated more on one side of the artery, our bifurcation result can help to understand this phenomenon.
