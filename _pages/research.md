@@ -9,7 +9,7 @@ My research includes theoretical and numerical analysis for partial differential
 
 ### 1. Tumor growth model with a time delay in cell proliferation
 A new PDE model is proposed for non-radially symmetric tumor growth with a time delay in cell proliferation. The time delay represents the time taken for cells to undergo replication. The model is a coupled system of an elliptic equation, a parabolic equation, and a backward ordinary differential equation. It also incorporates the cell location under the presence of time delay (see left figure, cell location changes in the period of time delay), with the tumor boundary as a <i>free boundary</i>. For the new model, we successfully carried out the stability and bifurcation analysis (see my publication [1] and [2]).
-![alt text](https://github.com/xinyue-zhao/xinyue-zhao.github.io/blob/master/assets/images/profile.jpg?raw=true)
+![alt text](https://github.com/xinyue-zhao/xinyue-zhao.github.io/blob/master/assets/research/tumorplot.jpg?raw=true)
 
 
 
