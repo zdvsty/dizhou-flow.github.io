@@ -18,3 +18,5 @@ A new PDE model is proposed for non-radially symmetric tumor growth with a time 
 <a href="https://arxiv.org/abs/1907.01148">arxiv</a>&nbsp;]
 
 * <b>X. E. Zhao</b> and B. Hu, "Symmetry-breaking bifurcation for a free-boundary tumor model with time delay", Journal of Differential Equations, 2021. [&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022039620300280">DOI</a>&nbsp;]
+
+[<a href="{{site.baseurl}}/research">Back to the Research Page</a> ]
