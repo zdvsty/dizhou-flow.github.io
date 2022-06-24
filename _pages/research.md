@@ -23,6 +23,10 @@ We studied the bifurcation for a highly nonlinear and highly coupled <i>free bou
 
 ### 3. Solving free boundary systems by using neural networks
 
-We proposed some novel numerical schemes to solve free boundary systems based on neural network discretization. In my publication [4], we applied this method to solve a modified Hele-Shaw problem with surface tension. The existence of numerical solutions was theoretically established under our new scheme. In the simulations, we first verified this approach on radially symmetric and known non-radially symmetric solutions. The following 4 figures show the shapes of symmetry-breaking solutions on n=2, n=3, n=4, and n=5 bifurcation branches. All these solutions can be fully characterized by the theoretical derivations and are recovered by our numerical method.
+In a series of work, we developed some novel numerical schemes based on neural networks to solve different free boundary problems and proved the convergence of the schemes theoretically. 
+
+In my publication [4], we proposed a method based on boundary integral method and neural network discretization to solve a modified Hele-Shaw problem with surface tension. In the simulations, we first verified this approach on radially symmetric and known non-radially symmetric solutions. The following 4 figures show the shapes of symmetry-breaking solutions on n=2, n=3, n=4, and n=5 bifurcation branches. All these solutions can be fully characterized by the theoretical derivations and are recovered by our numerical method.
+![alt text](https://github.com/xinyue-zhao/xinyue-zhao.github.io/blob/master/assets/research/HeleShaw.png?raw=true)
+
 
 Moreover, we further verified the capacity of the new method by computing some non-radially symmetric solutions which are not characterized by any theories. In particular, we found the following fingering-like patterns.
