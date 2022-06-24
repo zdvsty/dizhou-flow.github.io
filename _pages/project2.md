@@ -18,3 +18,5 @@ We studied the bifurcation for a highly nonlinear and highly coupled <i>free bou
 
 * <b>X. E. Zhao</b> and B. Hu, "On the first bifurcation point for a free boundary problem modeling a small arterial plaque", Mathematical Methods in the Applied Sciences, 2022. [&nbsp;<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/mma.8087">DOI</a>&nbsp;|
 <a href="https://arxiv.org/abs/2011.01528">arxiv</a>&nbsp;]
+
+[<a href="{{site.baseurl}}/research">Back to the Research Page</a> ]
