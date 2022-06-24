@@ -27,3 +27,5 @@ quality of the results.
 <b>Journal papers</b>
 
 * <b>X. E. Zhao</b>, W. Hao and B. Hu, "Two neural-network-based methods for solving elliptic obstacle problems", Chaos, Solitons and Fractals, Accepted.
+
+[<a href="{{site.baseurl}}/research">Back to the Research Page</a> ]
