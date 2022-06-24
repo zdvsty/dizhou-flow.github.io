@@ -32,3 +32,8 @@ In my publication [4], we proposed a method based on boundary integral method an
 Moreover, we further verified the capacity of the new method by computing some non-radially symmetric solutions which are not characterized by any existing theories. In particular, we found the following fingering-like patterns.
 
 ![alt text](https://github.com/xinyue-zhao/xinyue-zhao.github.io/blob/master/assets/research/HeleShaw2.png?raw=true)
+
+In another projection (publication [6]), we proposed two neural-network-based numerical schemes to solve the elliptic obstacle problems. In the first method, energy informed neural networks (EINNs), the cost function comes naturally from the energy minimization of the problem. As for the second method, Penalized EINNs, we took the variation form of a penalized system as the cost function. We rigorously proved the convergence of
+the two schemes and derive the convergence rates with the number of neurons N . In the simulations,
+we used two example problems (both 1-D and 2-D) to verify the convergence rate of the methods and the
+quality of the results.
