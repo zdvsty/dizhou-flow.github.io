@@ -22,3 +22,8 @@ In another projection (publication [6]), we proposed two neural-network-based nu
 the two schemes and derive the convergence rates with the number of neurons N . In the simulations,
 we used two example problems (both 1-D and 2-D) to verify the convergence rate of the methods and the
 quality of the results.
+
+
+<b>Journal papers</b>
+
+* <b>X. E. Zhao</b>, W. Hao and B. Hu, "Two neural-network-based methods for solving elliptic obstacle problems", Chaos, Solitons and Fractals, Accepted.
