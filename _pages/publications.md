@@ -30,6 +30,12 @@ Stability and Bifurcation Analysis of Applied Free Boundary Problems. PhD thesis
 0. <b>X. E. Zhao</b>, W. Hao and B. Hu, "Two neural-network-based methods for solving elliptic obstacle problems", Chaos, Solitons and Fractals, Accepted.
 
 
+## Posters
+0. <b>X. E. Zhao</b> and B. Hu, "A Free Boundary Tumor Growth Model with a Time Delay in Cell Proliferation". [[ poster ](https://drive.google.com/file/d/150LiQvIaTKNHumH_hkT1VzfNzhzMAI03/view?usp=sharing)]
+{: reversed="reversed"}
+
+0. <b>X. E. Zhao</b>, W. Hao and B. HU, "Solving a Free Boundary System by Using Neural Networks". [[ poster ](https://drive.google.com/file/d/145iRWgocVOQzJa5CstVUh1dYVMu0rz7L/view?usp=sharing)]
+{: reversed="reversed"}
 
 
 
