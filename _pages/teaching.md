@@ -5,7 +5,7 @@ permalink: /teaching/
 published: true
 ---
 
-<h2>## Current Teaching</h2>
+## Current Teaching
 Fall 2022. <b>MATH 3640/5640 Probability</b>
 
 Fall 2022. <b>MATH 2410: Methods of Linear Algebra</b>
