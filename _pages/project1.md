@@ -21,3 +21,9 @@ In order to investigate the evolution of axisymmetric TBL in the presence of adv
 * Zhou, D., Wang, K. & Wang, M., Evolution of a non-equilibrium turbulent boundary layer on the tail cone of a body of revolution under strong adverse pressure gradient. (In preparation)
 
 * Zhou, D., Wang, K. & Wang, M., Large-Eddy simulation of an axisymmetric boundary layer on a body of revolution, AIAA 2020-2989. AIAA AVIATION 2020 FORUM, June 2020. [&nbsp;<a href="https://arc.aiaa.org/doi/abs/10.2514/6.2020-2989">DOI</a>&nbsp;]
+
+
+<b>Talks:</b>
+* Zhou, D., Large-Eddy simulation of an axisymmetric boundary layer on a body of revolution. AIAA AVIATION 2020 FORUM, June 2020. (virtual)
+
+* Zhou, D., Large-Eddy simulation of turbulent flow over a body of revolution. 72nd Annual Meeting of the APS Division of Fluid Dynamics, Nov. 2019, Seattle, Washington.
