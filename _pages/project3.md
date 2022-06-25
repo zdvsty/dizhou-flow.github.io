@@ -25,8 +25,11 @@ quality of the results.
 
 ![alt text](https://github.com/xinyue-zhao/xinyue-zhao.github.io/blob/master/assets/research/EINN1D.png?raw=true)
 
+![alt text](https://github.com/xinyue-zhao/xinyue-zhao.github.io/blob/master/assets/research/PEINN1D.png?raw=true)
 
+![alt text](https://github.com/xinyue-zhao/xinyue-zhao.github.io/blob/master/assets/research/EINN2D.png?raw=true)
 
+![alt text](https://github.com/xinyue-zhao/xinyue-zhao.github.io/blob/master/assets/research/PEINN2D.png?raw=true)
 
 <b>Journal papers</b>
 
