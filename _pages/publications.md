@@ -11,7 +11,7 @@ published: true
 Computational Analysis of Noise Generation by a Rotor Ingesting Turbulent Boundary Layer on an Axisymmetric Body of Revolution, University of Notre Dame, Nov. 2021. [&nbsp;<a href="https://curate.nd.edu/show/7d278s48t31">thesis</a>&nbsp;]
 
 
-## Jounral papers
+## Jounral Papers
 0. <b>Zhou, D.</b>, Wang, K. & Wang, M., Space-Time characteristics of wall-pressure fluctuations beneath an axisymmetric turbulent boundary layer with adverse pressure gradient. (In preparation)
 
 0. <b>Zhou, D.</b>, Wang, K. & Wang, M., Evolution of a non-equilibrium turbulent boundary layer on the tail cone of a body of revolution under strong adverse pressure gradient. (In preparation)
