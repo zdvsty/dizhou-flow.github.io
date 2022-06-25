@@ -30,8 +30,6 @@ Di Zhou is a Postdoctoral Scholar Research Associate in Aerospace at the <a href
 ## Awards
 2021&nbsp;&nbsp;&nbsp;&nbsp;Center for Research Computing (CRC) Award for Computational Sciences and Visualization
 
-2021&nbsp;&nbsp;&nbsp;&nbsp;Striving for Excellence in College and University Teaching Certificate
-
 2019&nbsp;&nbsp;&nbsp;&nbsp;Notebaert Professional Development Award
 
 2019&nbsp;&nbsp;&nbsp;&nbsp;Graduate Student Union Conference Presentation Grant
