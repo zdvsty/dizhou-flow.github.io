@@ -1,5 +1,5 @@
 ---
-title: 'Tumor growth model'
+title: 'Research'
 layout: default
 permalink: /project1/
 published: true
