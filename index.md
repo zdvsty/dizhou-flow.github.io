@@ -9,16 +9,27 @@ published: true
 ---
 
 ## Contact Information
-Office: Stevenson Center 1529
+Office: 339 Guggenheim Lab
 
-Email: xinyue.zhao (at) vanderbilt.edu
+Email: dizhou (at) caltech.edu
 
-Web: <a href="http://xinyue-zhao.github.io">http://xinyue-zhao.github.io</a>
+Web: <a href="http://dizhou-flow.github.io">http://dizhou-flow.github.io</a>
 
 
 ## Short Biography
-I received my Ph.D. in Applied Mathematics from the <a href="https://www.nd.edu/">University of Notre Dame</a> under the supervision of Prof. <a href="https://acms.nd.edu/people/bei-hu/">Bei Hu</a>. Prior to that, I received an M.S., a B.S., and a B.Econ from <a href="https://www.ruc.edu.cn/">Renmin University of China</a>, China.
+Di Zhou is a Ph.D. candidate in the Department of Aerospace and Mechanical Engineering at the University of Notre Dame, working with Dr. Meng Wang. Before coming to Notre Dame, he received his master’s degree from Beihang University and bachelor degree from Northwestern Polytechnical University in China. Di Zhou focuses his research on employing high-fidelity computational techniques to simulate high Reynolds number wall-bounded turbulent flows and study the underlying flow physics, with applications to flow-generated sound.
 
-Currently, I am a Postdoctoral Scholar in the <a href="https://as.vanderbilt.edu/math/">Department of Mathematics</a> at <a href="https://www.vanderbilt.edu/"> Vanderbilt University</a>, working with Prof. <a href="https://my.vanderbilt.edu/glennwebb/">Glenn Webb</a>. My research interests are in mathematical biology and partial differential equations (PDEs), and my recent work involves both theoretical and numerical analysis of various  free boundary problems which have real-world applications such as tumor growth and atherosclerosis.
+<b>Education</b>
+Ph.D. 2021&nbsp;&nbsp;&nbsp;&nbsp;University of Notre Dame
 
+M.S. 2016&nbsp;&nbsp;&nbsp;&nbsp;Beihang University, China
+
+B.S. 2013&nbsp;&nbsp;&nbsp;&nbsp;Northwestern Polytechnical University, China
+
+<b>Awards</b>
+2021                      Center for Research Computing (CRC) Award for Computational Sciences and Visualization
+2021                      Striving for Excellence in College and University Teaching Certificate
+2019                      Notebaert Professional Development Award
+2019                      Graduate Student Union Conference Presentation Grant
+2018                      Outstanding Graduate Student Teaching Awards
 
