@@ -23,12 +23,21 @@ the two schemes and derive the convergence rates with the number of neurons N . 
 we used two example problems (both 1-D and 2-D) to verify the convergence rate of the methods and the
 quality of the results.
 
+![alt text](https://github.com/xinyue-zhao/xinyue-zhao.github.io/blob/master/assets/research/EINN1D.png?raw=true)
+
+
+
 
 <b>Journal papers</b>
 
-* <b>X. E. Zhao</b>, W. Hao and B. Hu, "Convergence analysis of neural networks for solving a free boundary problem", Computers & Mathematics with Applications, 2021. [&nbsp;<a href="https://www.sciencedirect.com/science/article/pii/S0898122121001139?casa_token=o-RVbd0DHt0AAAAA:-WRnFnAO1k8AXBPk-2dFYNKJJkQ6fz9To45_M6OhZzpuZ0SmrfUutiIcq5FFkTicF5CvqItvyw">DOI</a>&nbsp;|
+* X. E. Zhao, W. Hao and B. Hu, "Convergence analysis of neural networks for solving a free boundary problem", Computers & Mathematics with Applications, 2021. [&nbsp;<a href="https://www.sciencedirect.com/science/article/pii/S0898122121001139?casa_token=o-RVbd0DHt0AAAAA:-WRnFnAO1k8AXBPk-2dFYNKJJkQ6fz9To45_M6OhZzpuZ0SmrfUutiIcq5FFkTicF5CvqItvyw">DOI</a>&nbsp;|
 <a href="https://arxiv.org/abs/2011.00315">arxiv</a>&nbsp;]
 
-* <b>X. E. Zhao</b>, W. Hao and B. Hu, "Two neural-network-based methods for solving elliptic obstacle problems", Chaos, Solitons and Fractals, Accepted.
+* X. E. Zhao, W. Hao and B. Hu, "Two neural-network-based methods for solving elliptic obstacle problems", Chaos, Solitons and Fractals, Accepted.
+
+<b>Posters</b>
+
+* X. E. Zhao, W. Hao and B. HU, "Solving a Free Boundary System by Using Neural Networks". [[ poster ](https://drive.google.com/file/d/145iRWgocVOQzJa5CstVUh1dYVMu0rz7L/view?usp=sharing)]
+{: reversed="reversed"}
 
 [<a href="{{site.baseurl}}/research">Back to the Research Page</a> ]
