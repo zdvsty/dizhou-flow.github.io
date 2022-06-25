@@ -7,7 +7,7 @@ published: true
 
 ## Teaching & Mentoring Experience
 ### At Caltech
-* ???
+* Undergraduate research co-mentor of WAVE fellows program (June 2022–Aug. 2022)
 
 ### At Notre Dame
 * Teaching Assistant for various courses
