@@ -6,22 +6,18 @@ published: true
 ---
 
 
-## 1. Tumor growth model with a time delay in cell proliferation
-![alt text](https://github.com/xinyue-zhao/xinyue-zhao.github.io/blob/master/assets/research/tumorplot.jpg?raw=true)
+## 1. Evolution of a turbulent boundary layer on the tail cone of a body of revolution under strong adverse pressure gradient
+![alt text](https://github.com/dizhou-flow/dizhou-flow.github.io/blob/master/assets/research/R1.PNG?raw=true)
 
-A new PDE model is proposed for non-radially symmetric tumor growth with a time delay in cell proliferation. The time delay represents the time taken for cells to undergo replication. The model is a coupled system of an elliptic equation, a parabolic equation, and a backward ordinary differential equation. It also incorporates the cell location under the presence of time delay (see the figure above, cell location changes in the period of time delay), with the tumor boundary as a <i>free boundary</i>. For the new model, we successfully carried out the stability and bifurcation analysis, and published in two journal papers.
+It is well known that turbulent boundary layers (TBLs) under adverse pressure gradient are very common in a lot of engineering applications and are often related to the off-design conditions of engineering devices. An improved understanding of the underlying flow physics can be beneficial to the design as well as optimization of engineering devices, and it is also a prerequisite to the development of effective flow control strategies.
+
+In order to investigate the evolution of axisymmetric TBL in the presence of adverse pressure gradient, the turbulent flow over an axisymmetric body of revolution (BOR) at zero angle of attack is computed using large-eddy simulation (LES). The BOR consists of an ellipsoidal nose, a cylindrical midsection and a 20-degrees tail cone. The Reynolds number based on the free-stream velocity and the BOR length is 1.9 million. Based on the flow-field data from LES, the effects of adverse pressure gradient on the evolution of TBL statistical properties and the change in the flow structures over the tail cone are analyzed. In addition, the applicability of the embedded shear layer scaling in the axisymmetric boundary layer on the tail cone and the space‐time characteristics of pressure fluctuations on the tail cone surface are investigated.
 
 
-<b>Journal papers</b>
+<b>Publications:</b>
 
-* X. E. Zhao and B. Hu, “The impact of time delay in a tumor model”, Nonlinear Analysis: Real World Applications, 2020. [&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S1468121818312732">DOI</a>&nbsp;| 
-<a href="https://arxiv.org/abs/1907.01148">arxiv</a>&nbsp;]
+* Zhou, D., Wang, K. & Wang, M., Space-Time characteristics of wall-pressure fluctuations beneath an axisymmetric turbulent boundary layer with adverse pressure gradient. (In preparation)
 
-* X. E. Zhao and B. Hu, "Symmetry-breaking bifurcation for a free-boundary tumor model with time delay", Journal of Differential Equations, 2021. [&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022039620300280">DOI</a>&nbsp;]
+* Zhou, D., Wang, K. & Wang, M., Evolution of a non-equilibrium turbulent boundary layer on the tail cone of a body of revolution under strong adverse pressure gradient. (In preparation)
 
-<b>Posters</b>
-
-* X. E. Zhao and B. Hu, "A Free Boundary Tumor Growth Model with a Time Delay in Cell Proliferation". [[ poster ](https://drive.google.com/file/d/150LiQvIaTKNHumH_hkT1VzfNzhzMAI03/view?usp=sharing)]
-{: reversed="reversed"}
-
-[<a href="{{site.baseurl}}/research">Back to the Research Page</a> ]
+* Zhou, D., Wang, K. & Wang, M., Large-Eddy simulation of an axisymmetric boundary layer on a body of revolution, AIAA 2020-2989. AIAA AVIATION 2020 FORUM, June 2020. [&nbsp;<a href="https://arc.aiaa.org/doi/abs/10.2514/6.2020-2989">DOI</a>&nbsp;]
