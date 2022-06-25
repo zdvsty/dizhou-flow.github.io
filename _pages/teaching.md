@@ -4,26 +4,19 @@ layout: default
 permalink: /teaching/
 published: true
 ---
+## Teaching & Mentoring Experience
+### At Caltech
+* ???
 
-## Current Teaching
-* Fall 2022. MATH 3640/5640 Probability
+## At Notre Dame
+* Teaching Assistant for various courses
 
-* Fall 2022. MATH 2410: Methods of Linear Algebra
+- Graduate-level: Aeroacoustics, Numerical Methods
 
+- Undergrad-level: Computational Fluid Dynamics, Fluid Mechanics, Introduction to Engineering Computing, Orbital
+and Space Dynamics
 
-## Previous Teaching
-<b>Courses taught at Vanderbilt</b>
-
-* Spring 2022. MATH 2410: Methods of Linear Algebra
-
-* Fall 2021. MATH 1301 Discussion: Accelerated Single-Variable Calculus II
-
-<b>Courses taught at Notre Dame</b>
-
-* Fall 2019. ACMS 22550 Intro Appl Math Mthds Tutorial
-
-* Spring 2019. ACMS 22550 Intro Appl Math Mthds Tutorial
-
-* Fall 2018. ACMS 22550 Intro Appl Math Mthds Tutorial
-
-* Fall 2017. ACMS 21210 Scientific Computing Lab
+## At Beihang
+* Undergraduate research mentor of Zhibin Li (Feb. 2016–June 2016)
+* Undergraduate research mentor of Yinhui Shan (Feb. 2016–June 2016)
+* Undergraduate research mentor of Zhangming Zeng (Feb. 2015–June 2015)
