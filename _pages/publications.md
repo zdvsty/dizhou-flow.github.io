@@ -21,11 +21,13 @@ Computational Analysis of Noise Generation by a Rotor Ingesting Turbulent Bounda
 
 0. <b>Zhou, D.</b>, Wang, X., Chen, J., Jing, X. & Sun, X., Sound generation by non-synchronously oscillating rotor blades in turbomachinery. Journal of Sound and Vibration, 355 (2015), pp. 150–171. [&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022460X15005003">DOI</a>&nbsp;]
 
-0. <b>Zhou, D.</b>, Wang, X., Chen, J., Jing, X. & Sun, X., Investigation of sound generation by nonsynchronously viberating rotor blades. Acta Aeronautica et Astronautica Sinica, 36 (2015), pp. 737–748. [&nbsp;<a href="https://hkxb.buaa.edu.cn/EN/10.7527/S1000-6893.2015.0029">DOI</a>&nbsp;]
+0. <b>Zhou, D.</b>, Wang, X., Chen, J., Hong, Z., Jing, X. & Sun, X., Investigation of sound generation by nonsynchronously viberating rotor blades. Acta Aeronautica et Astronautica Sinica, 36 (2015), pp. 737–748. [&nbsp;<a href="https://hkxb.buaa.edu.cn/EN/10.7527/S1000-6893.2015.0029">DOI</a>&nbsp;]
 
 
 
 ## Conference Papers
+0. <b>Zhou, D.</b>, Wang, K. & Wang, M., Turbulence structures in an axisymmetric adverse-pressure-gradient boundary layer and their rotor aeroacoustic response. 12th International Symposium on Turbulence and Shear Flow Phenomena (TSFP12), July 2022. [&nbsp;<a href="http://www.tsfp-conference.org/proceedings/2022/448.pdf">link</a>&nbsp;]
+
 0. <b>Zhou, D.</b>, Wang, K. & Wang, M., Computational Analysis of Noise Generation by a Rotor at the Rear of an Axisymmetric Body of Revolution. AIAA/CEAS Aeroacoustics Conference, June 2022. [&nbsp;<a href="https://arc.aiaa.org/doi/abs/10.2514/6.2022-3090">DOI</a>&nbsp;]
 
 0. <b>Zhou, D.</b>, Wang, K. & Wang, M., Computation of rotor noise generation in a thick axisymmetric turbulent boundary layer. AIAA AVIATION 2021 FORUM, Aug. 2021. [&nbsp;<a href="https://arc.aiaa.org/doi/abs/10.2514/6.2021-2186">DOI</a>&nbsp;]
