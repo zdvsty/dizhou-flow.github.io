@@ -6,6 +6,8 @@ published: true
 ---
 
 ## Presentations
+* Zhou, D., Sound generation by a rotor in a thick axisymmetric turbulent boundary layer. 74th Annual Meeting of the APS Division of Fluid Dynamics, Nov. 2021. (virtual)
+
 * Zhou, D., Computation of rotor noise generation in a thick axisymmetric turbulent boundary layer. AIAA AVIATION 2021 FORUM, Aug. 2021. (virtual)
 
 * Zhou, D., Large-Eddy simulation of an axisymmetric boundary layer on a body of revolution. AIAA AVIATION 2020 FORUM, June 2020. (virtual)
