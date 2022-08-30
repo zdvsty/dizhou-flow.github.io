@@ -17,6 +17,5 @@ published: true
 	* Undergrad-level: Computational Fluid Dynamics, Fluid Mechanics, Introduction to Engineering Computing, Orbital and Space Dynamics
 
 ### At Beihang
-* Undergraduate research mentor of Zhibin Li (Feb. 2016–June 2016)
-* Undergraduate research mentor of Yinhui Shan (Feb. 2016–June 2016)
-* Undergraduate research mentor of Zhangming Zeng (Feb. 2015–June 2015)
+* Undergraduate research mentor (Feb. 2016–June 2016)
+* Undergraduate research mentor (Feb. 2015–June 2015)
