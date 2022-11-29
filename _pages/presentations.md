@@ -6,6 +6,8 @@ published: true
 ---
 
 ## Presentations
+* Zhou, D., Wall-Modeling of turbulent flows over a periodic hill using multi-agent reinforcement learning. 75th Annual Meeting of the APS Division of Fluid Dynamics, Nov. 2022, Indianapolis, Indiana.
+
 * Zhou, D., Sound generation by a rotor in a thick axisymmetric turbulent boundary layer. 74th Annual Meeting of the APS Division of Fluid Dynamics, Nov. 2021. (virtual)
 
 * Zhou, D., Computation of rotor noise generation in a thick axisymmetric turbulent boundary layer. AIAA AVIATION 2021 FORUM, Aug. 2021. (virtual)
