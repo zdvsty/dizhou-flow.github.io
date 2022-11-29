@@ -16,7 +16,7 @@ Email: dizhou (at) caltech.edu
 Web: <a href="http://dizhou-flow.github.io">http://dizhou-flow.github.io</a>
 
 ## Education
-Ph.D. 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Notre Dame
+Ph.D. 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Notre Dame
 
 M.S. 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beihang University, China
 
