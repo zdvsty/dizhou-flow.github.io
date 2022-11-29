@@ -9,7 +9,7 @@ published: true
 ---
 
 ## Contact Information
-Office: 339 Guggenheim Lab
+Office: 286 Firestone
 
 Email: dizhou (at) caltech.edu
 
