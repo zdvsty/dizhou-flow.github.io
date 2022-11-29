@@ -26,6 +26,9 @@ Computational Analysis of Noise Generation by a Rotor Ingesting Turbulent Bounda
 
 
 ## Conference Papers
+0. <b>Zhou, D.</b>, Whitmore, M. P., Griffin, K. P. & Bae, H. J., Multi-Agent reinforcement learning for wall modeling in LES
+of flow over periodic hills, Center for Turbulence Research, Proceedings of the Summer Program 2022, Dec. 2022.
+
 0. <b>Zhou, D.</b>, Wang, K. & Wang, M., Turbulence structures in an axisymmetric adverse-pressure-gradient boundary layer and their rotor aeroacoustic response. 12th International Symposium on Turbulence and Shear Flow Phenomena (TSFP12), July 2022. [&nbsp;<a href="http://www.tsfp-conference.org/proceedings/2022/448.pdf">link</a>&nbsp;]
 
 0. <b>Zhou, D.</b>, Wang, K. & Wang, M., Computational Analysis of Noise Generation by a Rotor at the Rear of an Axisymmetric Body of Revolution. AIAA/CEAS Aeroacoustics Conference, June 2022. [&nbsp;<a href="https://arc.aiaa.org/doi/abs/10.2514/6.2022-3090">DOI</a>&nbsp;]
