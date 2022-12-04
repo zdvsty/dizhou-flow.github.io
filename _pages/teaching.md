@@ -7,7 +7,7 @@ published: true
 
 ## Teaching & Mentoring Experience
 ### At Caltech
-* Invited lecture for the undergraduate course of Computational Fluid Dynamics (Oct. 2022)
+* Invited lecture for the graduate course of Computational Fluid Dynamics (Oct. 2022)
 * Undergraduate research co-mentor of WAVE fellows program (June 2022–Aug. 2022)
 
 ### At Notre Dame
