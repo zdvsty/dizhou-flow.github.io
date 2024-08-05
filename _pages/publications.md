@@ -16,6 +16,8 @@ Computational Analysis of Noise Generation by a Rotor Ingesting Turbulent Bounda
 
 0. <b>Zhou, D.</b>, Wang, K. & Wang, M., Evolution of a non-equilibrium turbulent boundary layer on the tail cone of a body of revolution under strong adverse pressure gradient. (In preparation)
 
+0. <b>Zhou, D.</b> & Bae, H. J., Wall Modeling of turbulent flows with varying pressure gradients using multi-agent reinforcement learning. AIAA Journal (2024). [&nbsp;<a href="https://doi.org/10.2514/1.J063691">DOI</a>&nbsp;]
+
 0. <b>Zhou, D.</b> & Bae, H. J., Sensitivity analysis of wall-modeled large-eddy simulation for separated turbulent flow. Journal of Computational Physics, 506 (2024), pp. 112948. [&nbsp;<a href="https://doi.org/10.1016/j.jcp.2024.112948">DOI</a>&nbsp;]
 
 0. <b>Zhou, D.</b>, Wang, K. & Wang, M., Rotor aeroacoustic response to an axisymmetric turbulent boundary layer. Journal of Fluid Mechanics, 981 (2024), pp. A25. [&nbsp;<a href="https://doi.org/10.1017/jfm.2024.29">DOI</a>&nbsp;]
@@ -30,12 +32,18 @@ Computational Analysis of Noise Generation by a Rotor Ingesting Turbulent Bounda
 
 
 ## Conference Papers
+0. Leung, S. C., <b>Zhou, D.</b> & Bae, H. J., Integrated gradients for optimal surface pressure sensor placement for lift prediction of an airfoil subject to gust. AIAA AVIATION FORUM AND ASCEND 2024, Aug. 2024. [&nbsp;<a href="https://arc.aiaa.org/doi/abs/10.2514/6.2024-4148">DOI</a>&nbsp;]
+
+0. Liu, Y., <b>Zhou, D.</b> & Wang, M., Wall-pressure fluctuations induced by a forward step in a high-Reynolds-number turbulent boundary layer. 30th AIAA/CEAS Aeroacoustics Conference, June 2024. [&nbsp;<a href="https://doi.org/10.2514/6.2024-3392">DOI</a>&nbsp;]
+
+0. <b>Zhou, D.</b> & Wang, M., Computational analysis of sound from a rotor ingesting a non-axisymmetric turbulent boundary layer. AIAA AVIATION 2023 Forum, June 2023. [&nbsp;<a href="https://doi.org/10.2514/6.2023-3658">DOI</a>&nbsp;]
+
 0. <b>Zhou, D.</b>, Whitmore, M. P., Griffin, K. P. & Bae, H. J., Multi-Agent reinforcement learning for wall modeling in LES
 of flow over periodic hills. Center for Turbulence Research, Proceedings of the Summer Program 2022, Dec. 2022.
 
 0. <b>Zhou, D.</b>, Wang, K. & Wang, M., Turbulence structures in an axisymmetric adverse-pressure-gradient boundary layer and their rotor aeroacoustic response. 12th International Symposium on Turbulence and Shear Flow Phenomena (TSFP12), July 2022. [&nbsp;<a href="http://www.tsfp-conference.org/proceedings/2022/448.pdf">link</a>&nbsp;]
 
-0. <b>Zhou, D.</b>, Wang, K. & Wang, M., Computational Analysis of Noise Generation by a Rotor at the Rear of an Axisymmetric Body of Revolution. AIAA/CEAS Aeroacoustics Conference, June 2022. [&nbsp;<a href="https://arc.aiaa.org/doi/abs/10.2514/6.2022-3090">DOI</a>&nbsp;]
+0. <b>Zhou, D.</b>, Wang, K. & Wang, M., Computational analysis of noise generation by a rotor at the rear of an axisymmetric body of revolution. AIAA/CEAS Aeroacoustics Conference, June 2022. [&nbsp;<a href="https://arc.aiaa.org/doi/abs/10.2514/6.2022-3090">DOI</a>&nbsp;]
 
 0. <b>Zhou, D.</b>, Wang, K. & Wang, M., Computation of rotor noise generation in a thick axisymmetric turbulent boundary layer. AIAA AVIATION 2021 FORUM, Aug. 2021. [&nbsp;<a href="https://arc.aiaa.org/doi/abs/10.2514/6.2021-2186">DOI</a>&nbsp;]
 
