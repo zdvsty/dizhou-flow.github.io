@@ -16,7 +16,9 @@ Computational Analysis of Noise Generation by a Rotor Ingesting Turbulent Bounda
 
 0. <b>Zhou, D.</b>, Wang, K. & Wang, M., Evolution of a non-equilibrium turbulent boundary layer on the tail cone of a body of revolution under strong adverse pressure gradient. (In preparation)
 
-0. <b>Zhou, D.</b>, Wang, K. & Wang, M., Computational analysis of noise generation by a rotor ingesting turbulent boundary layer on an axisymmetric body of revolution. (Submitted)
+0. <b>Zhou, D.</b> & Bae, H. J., Sensitivity analysis of wall-modeled large-eddy simulation for separated turbulent flow. Journal of Computational Physics, 506 (2024), pp. 112948. [&nbsp;<a href="https://doi.org/10.1016/j.jcp.2024.112948">DOI</a>&nbsp;]
+
+0. <b>Zhou, D.</b>, Wang, K. & Wang, M., Rotor aeroacoustic response to an axisymmetric turbulent boundary layer. Journal of Fluid Mechanics, 981 (2024), pp. A25. [&nbsp;<a href="https://doi.org/10.1017/jfm.2024.29">DOI</a>&nbsp;]
 
 0. <b>Zhou, D.</b>, Wang, X., Jing, X. & Sun, X., Acoustic properties of multiple cavity resonance liner for absorbing higher-order duct modes. The Journal of the Acoustical Society of America, 140 (2016), pp. 1251–1267. [&nbsp;<a href="https://asa.scitation.org/doi/abs/10.1121/1.4959001">DOI</a>&nbsp;]
 
