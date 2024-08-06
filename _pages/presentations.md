@@ -6,7 +6,7 @@ published: true
 ---
 
 ## Presentations
-* Zhou, D., Sensitivity analysis of wall-modeled large-eddy simulation for separated turbulent flow. 17th Southern California Flow Physics Symposium, Apr. 2024, Irvine, CA.
+* Zhou, D., Sensitivity analysis of wall-modeled large-eddy simulation for separated turbulent flow. The Southern California Flow Physics Symposium XVII, Apr. 2024, Irvine, CA.
 
 * Zhou, D., Sensitivity analysis of wall-modeled large-eddy simulation for separated turbulent flow. 76th Annual Meeting of the APS Division of Fluid Dynamics, Nov. 2023, Washington, DC.
 
