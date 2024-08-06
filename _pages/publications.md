@@ -32,7 +32,7 @@ Computational Analysis of Noise Generation by a Rotor Ingesting Turbulent Bounda
 
 
 ## Conference Papers
-0. Leung, S. C., <b>Zhou, D.</b> & Bae, H. J., Integrated gradients for optimal surface pressure sensor placement for lift prediction of an airfoil subject to gust. AIAA AVIATION FORUM AND ASCEND 2024, Aug. 2024. [&nbsp;<a href="https://arc.aiaa.org/doi/abs/10.2514/6.2024-4148">DOI</a>&nbsp;]
+0. Leung, S. C., <b>Zhou, D.</b> & Bae, H. J., Integrated gradients for optimal surface pressure sensor placement for lift prediction of an airfoil subject to gust. AIAA AVIATION FORUM AND ASCEND 2024, July 2024. [&nbsp;<a href="https://arc.aiaa.org/doi/abs/10.2514/6.2024-4148">DOI</a>&nbsp;]
 
 0. Liu, Y., <b>Zhou, D.</b> & Wang, M., Wall-pressure fluctuations induced by a forward step in a high-Reynolds-number turbulent boundary layer. 30th AIAA/CEAS Aeroacoustics Conference, June 2024. [&nbsp;<a href="https://doi.org/10.2514/6.2024-3392">DOI</a>&nbsp;]
 
