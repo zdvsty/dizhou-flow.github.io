@@ -15,11 +15,11 @@ My appreciation for scenery strongly influences my ratings—mountains are my fa
 
 1, S Tier (Must-See Landmarks): These are the crown jewels of national parks according to my experiences. They offer breathtaking landscapes that are often iconic representations of natural beauty in the U.S. If your time in the U.S. is limited, these parks provide unforgettable experiences that define the majesty of the country's wilderness.
 
-Zion
-Denali
-Yosemite
-Yellowstone
-Grand Canyon
+* Zion
+* Denali
+* Yosemite
+* Yellowstone
+* Grand Canyon
 
 2, A Tier (Exceptional Destinations): Parks in this tier boast exceptional views and experiences that merit a special trip. Ideal for those spending an extended period in the U.S., these parks offer a blend of majestic scenery and unique natural features that are well worth exploring in-depth. Each park has a distinct appeal that makes it a special destination.
 
