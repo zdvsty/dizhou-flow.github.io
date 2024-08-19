@@ -11,7 +11,7 @@ Over the past seven years, I have traveled through 29 states (staying at least o
 
 My appreciation for scenery strongly influences my ratings—mountains are my favorite, followed by deserts, then seashores or lakeshores, with caves next, and forests being relatively my least favorite. The scale of the scenery plays a critical role in my evaluations, and the diversity of the landscape is also an important consideration. I also place significant emphasis on the opportunity to observe wildlife. However, factors like park facilities or crowd levels do not weigh heavily in my criteria.
 
-
+![alt text](https://github.com/dizhou-flow/dizhou-flow.github.io/blob/master/assets/imgaes/my-image.png?raw=true)
 
 1, S Tier (Must-See Landmarks): These are the crown jewels of national parks according to my experiences. They offer breathtaking landscapes that are often iconic representations of natural beauty in the U.S. If your time in the U.S. is limited, these parks provide unforgettable experiences that define the majesty of the country's wilderness.
 
