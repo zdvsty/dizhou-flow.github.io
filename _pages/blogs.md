@@ -1,8 +1,8 @@
 ---
-title:
+title: Hiking
 layout: default
 permalink: /blog/
-published: false
+published: true
 
 ## Hiking
 
