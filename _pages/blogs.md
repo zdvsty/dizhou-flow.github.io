@@ -15,8 +15,41 @@ My appreciation for scenery strongly influences my ratings—mountains are my fa
 
 1, S Tier (Must-See Landmarks): These are the crown jewels of national parks according to my experiences. They offer breathtaking landscapes that are often iconic representations of natural beauty in the U.S. If your time in the U.S. is limited, these parks provide unforgettable experiences that define the majesty of the country's wilderness.
 
+Zion
+Denali
+Yosemite
+Yellowstone
+Grand Canyon
+
 2, A Tier (Exceptional Destinations): Parks in this tier boast exceptional views and experiences that merit a special trip. Ideal for those spending an extended period in the U.S., these parks offer a blend of majestic scenery and unique natural features that are well worth exploring in-depth. Each park has a distinct appeal that makes it a special destination.
+
+Arches
+Olympic
+Crater Lake
+Grand Teton
+Capitol Reef
+Kenai Fjords
+Canyonlands
+Mount Rainier
+Bryce Canyon
+Rocky Mountain
 
 3, B Tier (Worthy Detours): These parks are perfect for those traveling nearby and offer very good views or unique activities that justify a detour. While they might not command the awe of higher-tier parks, their beauty and recreational opportunities are significant enough to enhance any road trip or local adventure.
 
+Sequoia
+Pinnacles
+Haleakalā
+Volcanoes
+Everglades
+Death Valley
+Kings Canyon
+Black Canyon
+Wrangell-St. Elias
+Great Sand Dunes
+
 4, C Tier (Local Charms): While the scenery of these parks might be less amazing, they offer pleasing landscapes and are worth visiting if you are local or passing through the area. They might not be destinations to plan a trip around without other reasons to be nearby, but they can provide a delightful escape into nature.
+
+Joshua Tree
+Indiana Dunes
+Mammoth Cave
+Great Smoky Mountains
