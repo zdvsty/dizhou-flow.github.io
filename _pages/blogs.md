@@ -1,8 +1,9 @@
 ---
-title: Hiking
+title: 'Hiking'
 layout: default
-permalink: /blog/
+permalink: /hiking/
 published: true
+---
 
 ## Hiking
 
